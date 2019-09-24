@@ -112,8 +112,8 @@
               <artifactId>tomcat-maven-plugin</artifactId>
             <version>1.1</version>
               <configuration>
-                  <server>tomcat-development-server</server>
-                  <port>8181</port>
+                  <server>3.15.39.30</server>
+                  <port>8090</port>
                   <path>/</path>
               </configuration>
           </plugin>
